@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ColourGenerator {
-
     ColourSettings settings;
     Texture2D texture;
     const int textureResolution = 50;
@@ -32,7 +31,7 @@ public class ColourGenerator {
             }
         }
 
-        return biomeIndex / Mathf.Max(1, numBiomes - 1)
+        return biomeIndex / Mathf.Max(1, numBiomes - 1);
     }
 
     public void UpdateColours() {
