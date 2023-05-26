@@ -21,6 +21,7 @@ public class TerrainFace {
     }
 
     public void ConstructMesh() {
+        // mesh.uv.Lengtgh == uv.Length;
         Vector3[] vertices = new Vector3[resolution * resolution];
         int[] triangles = new int[(resolution - 1) * (resolution - 1) * 6];
         int triIndex = 0;
@@ -53,6 +54,7 @@ public class TerrainFace {
         mesh.vertices = vertices;
         mesh.triangles = triangles;
         mesh.RecalculateNormals();
+        mesh.uv = uv;
     }
 
     public void UpdateUVs(ColourGenerator colourGenerator) {
