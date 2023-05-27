@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking;
 
 public class Planet : MonoBehaviour {
     [Range(2, 256)]
@@ -24,6 +25,10 @@ public class Planet : MonoBehaviour {
     [SerializeField, HideInInspector]
     MeshFilter[] meshFilters;
     TerrainFace[] terrainFaces;
+
+    void Start() {
+        StartCoroutine(GetRequest("http://127.0.0.1:5000"));
+    }
      
 	void Initialize() {
         shapeGenerator.UpdateSettings(shapeSettings);
@@ -50,6 +55,21 @@ public class Planet : MonoBehaviour {
             terrainFaces[i] = new TerrainFace(shapeGenerator, meshFilters[i].sharedMesh, resolution, directions[i]);
             bool renderFace = faceRenderMask == FaceRenderMask.All || (int)faceRenderMask - 1 == i;
             meshFilters[i].gameObject.SetActive(renderFace);
+        }
+    }
+
+    IEnumerator GetRequest(string uri) {
+        using (UnityWebRequest webRequest = UnityWebRequest.Get(uri)) {
+            yield return webRequest.SendWebRequest();
+            if (webRequest.isNetworkError) {
+                Debug.Log("Error: " + webRequest.error);
+            } else {
+                Debug.Log(webRequest.downloadHandler.text);
+
+                if (webRequest.downloadHandler.text == "Hello World") {
+                    Debug.Log("404");
+                }
+            }
         }
     }
 
