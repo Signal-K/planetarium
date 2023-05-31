@@ -20,12 +20,12 @@ MonoBehaviour:
       filterType: 0
       simpleNoiseSettings:
         strength: 0.09
-        numLayers: 8
+        numLayers: 5
         baseRoughness: 1
         roughness: 2.5
         persistence: 0.5
         centre: {x: 2.76, y: 1.99, z: -0.39}
-        minValue: 0.98
+        minValue: 0.91
       ridgidNoiseSettings:
         strength: 0
         numLayers: 0
@@ -49,10 +49,10 @@ MonoBehaviour:
         minValue: 0
       ridgidNoiseSettings:
         strength: 1.42
-        numLayers: 8
+        numLayers: 5
         baseRoughness: 5
         roughness: 100
         persistence: 0.5
-        centre: {x: 0, y: 0, z: 0}
-        minValue: 1.42
-        weightMultiplier: 1.71
+        centre: {x: 1.32, y: 0, z: 0}
+        minValue: 2.5
+        weightMultiplier: 0.78

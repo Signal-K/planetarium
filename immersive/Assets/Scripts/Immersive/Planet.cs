@@ -8,6 +8,7 @@ public class Planet : MonoBehaviour {
     public bool autoUpdate = true;
     public enum FaceRenderMask { All, Top, Bottom, Left, Right, Front, Back };
     public FaceRenderMask faceRenderMask;
+    public float TurnSpeed;
 
     public ShapeSettings shapeSettings;
     public ColourSettings colourSettings;
@@ -50,6 +51,10 @@ public class Planet : MonoBehaviour {
             bool renderFace = faceRenderMask == FaceRenderMask.All || (int)faceRenderMask - 1 == i;
             meshFilters[i].gameObject.SetActive(renderFace);
         }
+    }
+
+    private void Update() {
+        transform.Rotate(Vector3.up, TurnSpeed * Time.deltaTime);
     }
 
     public void GeneratePlanet() {
