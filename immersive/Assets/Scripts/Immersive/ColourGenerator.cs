@@ -11,7 +11,7 @@ public class ColourGenerator {
     public void UpdateSettings(ColourSettings settings) {
         this.settings = settings;
         if (texture == null || texture.height != settings.biomeColourSettings.biomes.Length) {
-            texture = new Texture2D(textureResolution, settings.biomeColourSettings.biomes.Length);
+            texture = new Texture2D(textureResolution * 8, settings.biomeColourSettings.biomes.Length, TextureFormat.RGBA32, false);
         }
         biomeNoiseFilter = NoiseFilterFactory.CreateNoiseFilter(settings.biomeColourSettings.noise);
     }
@@ -41,8 +41,14 @@ public class ColourGenerator {
         Color[] colours = new Color[texture.width * texture.height];
         int colourIndex = 0;
         foreach (var biome in settings.biomeColourSettings.biomes) {
-            for (int i = 0; i < textureResolution; i++) {
-                Color gradientCol = biome.gradient.Evaluate(i / (textureResolution - 1f));
+            for (int i = 0; i < textureResolution * 8; i++) {
+                Color gradientCol;
+                if (i < textureResolution) {
+                    gradientCol = settings.oceanColour.Evaluate(i / (textureResolution - 1f));
+                } else {
+                    gradientCol = biome.gradient.Evaluate((i - textureResolution) / (textureResolution - 1f));
+                }
+
                 Color tintCol = biome.tint;
                 colours[colourIndex] = gradientCol * (1 - biome.tintPercent) + tintCol * biome.tintPercent;
                 colourIndex++;
