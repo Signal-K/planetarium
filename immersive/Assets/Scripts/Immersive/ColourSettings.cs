@@ -6,6 +6,7 @@ using UnityEngine;
 public class ColourSettings : ScriptableObject {
     public Material planetMaterial;
     public BiomeColourSettings biomeColourSettings;
+    public Gradient oceanColour;
 
     [System.Serializable]
     public class BiomeColourSettings {
@@ -20,10 +21,10 @@ public class ColourSettings : ScriptableObject {
         public class Biome {
             public Gradient gradient;
             public Color tint;
-            [Range(0,1)]
+            [Range(0, 1)]
             public float startHeight;
-            [Range(0,1)]
+            [Range(0, 1)]
             public float tintPercent;
         }
     }
-} 
+}
