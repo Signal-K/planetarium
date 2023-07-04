@@ -1,0 +1,17 @@
+name: planetarium
+id: ari:cloud:compass:6c5f0aad-3609-46b8-ab18-2bbe3c8d954a:component/877cb673-9bea-4a28-ab02-5c00556706db/c0493f79-35ab-4554-af9f-e4eeef28ea5d
+description: Unity & Python application that procedurally generates 3d & 2d planets for use in the Star Sailors engine
+configVersion: 1
+typeId: LIBRARY
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Signal-K/planetarium
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:c#
+  - source:github
+customFields: null
