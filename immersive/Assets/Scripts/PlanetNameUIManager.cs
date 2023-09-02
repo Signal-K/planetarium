@@ -16,4 +16,4 @@ public class PlanetNameUIManager : MonoBehaviour {
     //     // Update the TurnSpeed variable in the Planet script
     //     planet.TurnSpeed = newPlanetTurnSpeed;
     // }
-}
+} 

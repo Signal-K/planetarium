@@ -10,4 +10,4 @@ public class UpdatePlanetRotateSpeed : MonoBehaviour {
         // Update the TurnSpeed variable in the Planet script
         planet.TurnSpeed = newPlanetTurnSpeed;
     }
-}
+} 
