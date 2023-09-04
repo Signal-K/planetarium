@@ -17,7 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Immersive/Base.unity
     guid: 33a3d1087a9ef46c0b9f3ef754dd6053
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Immersive/Mars.unity
     guid: 46c40d94bf5054ef08eb60e4b5f6581b
+  - enabled: 1
+    path: Assets/Scenes/Immersive/Base (Plastic Fantastic).unity
+    guid: d2961d7551f0043d2ab35dfceb07fdc7
   m_configObjects: {}
