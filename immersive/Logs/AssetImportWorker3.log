@@ -1054,3 +1054,414 @@ Received Import Request.
 Start importing Assets/Settings/Ultra_PipelineAsset.asset using Guid(13ed2b33231dc4bbfbae7742d53f4f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f436a9c62df67a7cda0b690ba8237bd9') in 0.000457 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 44.481529 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures
+  artifactKey: Guid(5670c0367dd9d5f4da3cb8469a84774f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures using Guid(5670c0367dd9d5f4da3cb8469a84774f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cd1137d2749d75c53d8e7d0b24a9fc2') in 0.000713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.754071 seconds.
+  path: Assets/Building Blocks/Alien_planet/Scenes/Dry_planet_scene.unity
+  artifactKey: Guid(dcebdfada6a32034fb725f3675db79ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Scenes/Dry_planet_scene.unity using Guid(dcebdfada6a32034fb725f3675db79ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e5e91e2e76e0cac37d8fef65728bb3a') in 0.001110 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 45.679247 seconds.
+  path: Assets/Building Blocks/Alien_planet/Scenes/Gas_planet_scene.unity
+  artifactKey: Guid(e42b4ec5dee01374dac3dd5007a2b128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Scenes/Gas_planet_scene.unity using Guid(e42b4ec5dee01374dac3dd5007a2b128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf90cc1108394886767e47c4af0d9b92') in 0.009176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 15.809875 seconds.
+  path: Assets/Building Blocks/Alien_planet/Scenes/Ice_planet_scene.unity
+  artifactKey: Guid(9630c303fde78c44883c90b87601ee09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Scenes/Ice_planet_scene.unity using Guid(9630c303fde78c44883c90b87601ee09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0503e41aeac8a2f91b4b1bde6a8a5c0') in 0.000548 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.543382 seconds.
+  path: Assets/Building Blocks/Alien_planet/Scenes/Lush_planet_scene.unity
+  artifactKey: Guid(2047f9168c86ecd44a430c01c0dcf201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Scenes/Lush_planet_scene.unity using Guid(2047f9168c86ecd44a430c01c0dcf201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c9c315c91ee2e19e30371373b7263c') in 0.000552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.582743 seconds.
+  path: Assets/Building Blocks/Alien_planet/Scenes/Landing_scene.unity
+  artifactKey: Guid(b78528a808869524bb653d6e7f346c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Scenes/Landing_scene.unity using Guid(b78528a808869524bb653d6e7f346c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a8c4e4d8fba5a3c8e95165d64339ae') in 0.000423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d64f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.582 seconds
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.898 seconds
+Domain Reload Profiling: 1480ms
+	BeginReloadAssembly (137ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (77ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (16ms)
+	LoadAllAssembliesAndSetupDomain (398ms)
+		LoadAssemblies (203ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (225ms)
+			TypeCache.Refresh (218ms)
+				TypeCache.ScanAssembly (209ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (899ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (277ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (55ms)
+			ProcessInitializeOnLoadAttributes (178ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 1.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4945 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (60.0 KB). Loaded Objects now: 5604.
+Memory consumption went from 202.6 MB to 202.5 MB.
+Total: 2.659250 ms (FindLiveObjects: 0.203209 ms CreateObjectMapping: 0.069166 ms MarkObjects: 2.263834 ms  DeleteObjects: 0.122625 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d5c3000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.587 seconds
+Refreshing native plugins compatible for Editor in 1.36 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.873 seconds
+Domain Reload Profiling: 1460ms
+	BeginReloadAssembly (126ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (68ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (15ms)
+	LoadAllAssembliesAndSetupDomain (415ms)
+		LoadAssemblies (202ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (242ms)
+			TypeCache.Refresh (235ms)
+				TypeCache.ScanAssembly (226ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (873ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (281ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (177ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 1.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4945 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (59.8 KB). Loaded Objects now: 5608.
+Memory consumption went from 206.5 MB to 206.4 MB.
+Total: 2.534750 ms (FindLiveObjects: 0.190500 ms CreateObjectMapping: 0.063458 ms MarkObjects: 2.176667 ms  DeleteObjects: 0.103542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 700.130061 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockA.FBX
+  artifactKey: Guid(a7e90a709c3594c429550e79d6ad5b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockA.FBX using Guid(a7e90a709c3594c429550e79d6ad5b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef00ced9239fb39dc63c542bdcfec94e') in 0.009580 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockC.FBX
+  artifactKey: Guid(6c8488486889cf74b9a69d1bba4d38ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockC.FBX using Guid(6c8488486889cf74b9a69d1bba4d38ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e1f31bbb4d855d826a7a11b2e59ec1c') in 0.000853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockH_skin2.FBX
+  artifactKey: Guid(2aba8986c851f7a4188db969c0007f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockH_skin2.FBX using Guid(2aba8986c851f7a4188db969c0007f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e19051e87d8781bf1b4d307c1f140a') in 0.000646 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockD_skin2.FBX
+  artifactKey: Guid(628bf917512a7e14e85d240398d0d2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockD_skin2.FBX using Guid(628bf917512a7e14e85d240398d0d2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f956fca8be57e774a2d43540ba41ea') in 0.000693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockE.FBX
+  artifactKey: Guid(98fe2148e4e04854aac4e630e8325ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockE.FBX using Guid(98fe2148e4e04854aac4e630e8325ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff858375db8c2ab509a38b9c14d0bc8') in 0.000881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockB_skin2.FBX
+  artifactKey: Guid(74caa68a18dfc4649946efc111103437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockB_skin2.FBX using Guid(74caa68a18dfc4649946efc111103437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83c0e0313316091c16a0c835a41541b3') in 0.000889 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockB.FBX
+  artifactKey: Guid(cccde490a7af10546a6b9bb2056a8cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockB.FBX using Guid(cccde490a7af10546a6b9bb2056a8cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518f5361c36c0ba0c86f9113e5c27684') in 0.000791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockE_skin2.FBX
+  artifactKey: Guid(55bef5da794d8634b973a3b2f9af90f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockE_skin2.FBX using Guid(55bef5da794d8634b973a3b2f9af90f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e70d4dbb0a88480e7b54ecf61d3b8ec') in 0.000909 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockF.FBX
+  artifactKey: Guid(83ef39bcab60eec44be3c524d59b826e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockF.FBX using Guid(83ef39bcab60eec44be3c524d59b826e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1920317725a6b2142097249f6f4c5bb0') in 0.000933 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_circle_skin2.FBX
+  artifactKey: Guid(39916e81aeed9e14499c619406dc8ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_circle_skin2.FBX using Guid(39916e81aeed9e14499c619406dc8ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a76f6c1dbd06ca0a689b61d9607969') in 0.000637 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockG_skin2.FBX
+  artifactKey: Guid(15a9a0efeae47454f9d37fec35d7efba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Alien_structures/Alien_blockG_skin2.FBX using Guid(15a9a0efeae47454f9d37fec35d7efba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d4353f62b8e1ef5b869f7b6532fa3f2') in 0.000840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 4.832042 seconds.
+  path: Assets/Scenes/LowPoly
+  artifactKey: Guid(ea9b51278b74a43b08d32357595d0da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LowPoly using Guid(ea9b51278b74a43b08d32357595d0da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477fb53560a5622fc2475a9d713454f9') in 0.000294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.762297 seconds.
+  path: Assets/Scenes/LowPoly/Bloom Scene.unity
+  artifactKey: Guid(9861501ff5e9f437b85934539a9e3b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LowPoly/Bloom Scene.unity using Guid(9861501ff5e9f437b85934539a9e3b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4488201cda093495a65e82275ea2a66a') in 0.000436 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.038712 seconds.
+  path: Assets/Scenes/LowPoly/Rocky-derivatives
+  artifactKey: Guid(03823b2e67d5541d6abbc9bda606c406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LowPoly/Rocky-derivatives using Guid(03823b2e67d5541d6abbc9bda606c406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0daaa2b2dcc1c3575e9b278888efdc87') in 0.000351 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.464736 seconds.
+  path: Assets/Scenes/LowPoly/SampleScene 1.unity
+  artifactKey: Guid(0ce7ad981d838453e896686a93cc4158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LowPoly/SampleScene 1.unity using Guid(0ce7ad981d838453e896686a93cc4158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c7d3be599cee62460514aeb2b9cadb') in 0.000389 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.651528 seconds.
+  path: Assets/Scenes/LowPoly/Rocky-derivatives/Rocky Planet 1.unity
+  artifactKey: Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LowPoly/Rocky-derivatives/Rocky Planet 1.unity using Guid(d1c3109bdb54ad54c8a2b2838528e640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21025db7985ca5bcedb47ed33a500969') in 0.000775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.651513 seconds.
+  path: Assets/Scenes/Immersive/Base (Plastic Fantastic).unity
+  artifactKey: Guid(d2961d7551f0043d2ab35dfceb07fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Immersive/Base (Plastic Fantastic).unity using Guid(d2961d7551f0043d2ab35dfceb07fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd6225384d7b436727fe1499a7b5bfa') in 0.009926 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 26.659088 seconds.
+  path: Assets/Building Blocks/Alien_planet/Scenes/Lush_planet_scene.unity
+  artifactKey: Guid(2047f9168c86ecd44a430c01c0dcf201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Scenes/Lush_planet_scene.unity using Guid(2047f9168c86ecd44a430c01c0dcf201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6f8c2a60ffc2efcdfcce0ef3a873c3') in 0.002703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 11.203569 seconds.
+  path: Assets/Scenes/Immersive/Base (Plastic Fantastic).unity
+  artifactKey: Guid(d2961d7551f0043d2ab35dfceb07fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Immersive/Base (Plastic Fantastic).unity using Guid(d2961d7551f0043d2ab35dfceb07fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8ca13d8ff9e71f61e24bbe8efc0b35') in 0.009296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 45.917138 seconds.
+  path: Assets/Scenes/Immersive/Base (Plastic Fantastic).unity
+  artifactKey: Guid(d2961d7551f0043d2ab35dfceb07fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Immersive/Base (Plastic Fantastic).unity using Guid(d2961d7551f0043d2ab35dfceb07fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d4a5f0fdff3170dc045fcda62552d9') in 0.008520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 70.888699 seconds.
+  path: Assets/Scenes/Immersive/Base (Plastic Fantastic).unity
+  artifactKey: Guid(d2961d7551f0043d2ab35dfceb07fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Immersive/Base (Plastic Fantastic).unity using Guid(d2961d7551f0043d2ab35dfceb07fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d03eb0d1a4fe9fd657f26f6237457c') in 0.012905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16d5c3000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.585 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.837 seconds
+Domain Reload Profiling: 1421ms
+	BeginReloadAssembly (112ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (17ms)
+	LoadAllAssembliesAndSetupDomain (424ms)
+		LoadAssemblies (183ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (270ms)
+			TypeCache.Refresh (263ms)
+				TypeCache.ScanAssembly (241ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (837ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (264ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (56ms)
+			ProcessInitializeOnLoadAttributes (165ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 1.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4945 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (60.0 KB). Loaded Objects now: 5612.
+Memory consumption went from 210.6 MB to 210.5 MB.
+Total: 2.923792 ms (FindLiveObjects: 0.298333 ms CreateObjectMapping: 0.062917 ms MarkObjects: 2.422208 ms  DeleteObjects: 0.139167 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
