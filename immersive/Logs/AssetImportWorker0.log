@@ -249,3 +249,469 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 236026.189908 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_dead_tree.FBX
+  artifactKey: Guid(e2e356d413184dd42bd48bc9c19c546a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_dead_tree.FBX using Guid(e2e356d413184dd42bd48bc9c19c546a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a053c44515cd60b6189308d027532a12') in 0.089959 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_Grassb.FBX
+  artifactKey: Guid(086778f2d5022c34eb1a2e1ed7908d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_Grassb.FBX using Guid(086778f2d5022c34eb1a2e1ed7908d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650614a55ec9fbbb93c75cbcfad1f266') in 0.001903 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_tree.FBX
+  artifactKey: Guid(8abfa0b2f3928334e9532e3b0fd6eee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_tree.FBX using Guid(8abfa0b2f3928334e9532e3b0fd6eee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27658bde5ddb53c23b2780b7387f3e4f') in 0.001649 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_treeC.FBX
+  artifactKey: Guid(b0bcd16626fdfab499b5275a58ea5f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_treeC.FBX using Guid(b0bcd16626fdfab499b5275a58ea5f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6ff2b16897d615539c77e6bb1d098d') in 0.001495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_Grass.FBX
+  artifactKey: Guid(96e913bb5ec66114186fd46db4f8dd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Ice/Ice_Grass.FBX using Guid(96e913bb5ec66114186fd46db4f8dd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14233127910367942079e98ba0b6d07b') in 0.001550 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.530191 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Lush/giant_flower_lush.FBX
+  artifactKey: Guid(dd6f7730a1e9f2c4da941173892c40b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Lush/giant_flower_lush.FBX using Guid(dd6f7730a1e9f2c4da941173892c40b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca44f77a4cfd676ec756ddbba10dc7f4') in 0.002265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Lush/Lush_grass.FBX
+  artifactKey: Guid(01950a0a505d8734e84aab9d81590896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Lush/Lush_grass.FBX using Guid(01950a0a505d8734e84aab9d81590896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee0da6b3103ae23af409dc020b6c801') in 0.001389 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Lush/Lush_plant.FBX
+  artifactKey: Guid(356a7c21b8be3bf428492861ca90e98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Lush/Lush_plant.FBX using Guid(356a7c21b8be3bf428492861ca90e98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c8de301666516d122dc2f6beefc983') in 0.001457 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Lush/Tree_lushB.FBX
+  artifactKey: Guid(a368a2c71a5be9642a6c6217c457bf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Lush/Tree_lushB.FBX using Guid(a368a2c71a5be9642a6c6217c457bf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5095c0bcc678ccf67eff29b4f22af7b7') in 0.001100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Lush/Lush_grassb.FBX
+  artifactKey: Guid(e136b0aa8bb9f434f86ca8c61c6d079c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Lush/Lush_grassb.FBX using Guid(e136b0aa8bb9f434f86ca8c61c6d079c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee27e66dc478517a8d9539a0c2016ca') in 0.000944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Building Blocks/Alien_planet/Foliage/Lush/Root_lush.FBX
+  artifactKey: Guid(cdf69c1cbc8704049a271b2a73429b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Foliage/Lush/Root_lush.FBX using Guid(cdf69c1cbc8704049a271b2a73429b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b57eed8b0171916b93884cbad4adc0') in 0.002060 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 4.829235 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Drone_skin1.prefab
+  artifactKey: Guid(5c87ba7805341b74db2bf6586bc55f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Drone_skin1.prefab using Guid(5c87ba7805341b74db2bf6586bc55f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de456780b153f664949ada41e626b193') in 0.010763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 53
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_D_skin1.prefab
+  artifactKey: Guid(526e8fb8aea7bd14395a0b25fae089c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_D_skin1.prefab using Guid(526e8fb8aea7bd14395a0b25fae089c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5300b337a10836f36cf26e01eee16abc') in 0.003804 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 77
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_B_skin2.prefab
+  artifactKey: Guid(0df575a76746cd84c9386a96581e878b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_B_skin2.prefab using Guid(0df575a76746cd84c9386a96581e878b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5668c0ac15cfe2c2c5eb69a2ecbaa7') in 0.003008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 85
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Drone_skin3.prefab
+  artifactKey: Guid(c731ff827c0af0542aa22285b226c62e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Drone_skin3.prefab using Guid(c731ff827c0af0542aa22285b226c62e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5787fa5eb9af88c42f20242700fc62') in 0.002824 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 53
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_skin3.prefab
+  artifactKey: Guid(48a7bba13c5a9b24c91846ad4d2ddc51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_skin3.prefab using Guid(48a7bba13c5a9b24c91846ad4d2ddc51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '414e182dcaf5ca4ee8ecebd81455d04c') in 0.002540 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 97
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_C_skin3.prefab
+  artifactKey: Guid(59f631fc17fbca54793266daf48799db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_C_skin3.prefab using Guid(59f631fc17fbca54793266daf48799db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f9ea8744afd281485b35a96dad7561a') in 0.002272 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 39
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Ship_landing.prefab
+  artifactKey: Guid(3615206239d43394092c67f548246ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Ship_landing.prefab using Guid(3615206239d43394092c67f548246ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42845ee8ab3c35e7150c82522f5af0fe') in 0.001770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 100
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_B_skin3.prefab
+  artifactKey: Guid(041f70ed89fda7c4d83285639293e767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Spaceships/Spaceship_B_skin3.prefab using Guid(041f70ed89fda7c4d83285639293e767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc26d059ac497dfd3513c01cbe97fc66') in 0.002933 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 91
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16fa57000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.660 seconds
+Refreshing native plugins compatible for Editor in 1.31 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.064 seconds
+Domain Reload Profiling: 1724ms
+	BeginReloadAssembly (127ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (476ms)
+		LoadAssemblies (232ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (279ms)
+			TypeCache.Refresh (270ms)
+				TypeCache.ScanAssembly (259ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1065ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (316ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (200ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 1.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4945 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (61.3 KB). Loaded Objects now: 5583.
+Memory consumption went from 193.7 MB to 193.7 MB.
+Total: 2.995083 ms (FindLiveObjects: 0.180625 ms CreateObjectMapping: 0.073750 ms MarkObjects: 2.624583 ms  DeleteObjects: 0.115458 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 143.031958 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry
+  artifactKey: Guid(df9e6cc6ec617ce4bb333743b12bbf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry using Guid(df9e6cc6ec617ce4bb333743b12bbf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ca759f443df7e840feeeb8eca88b24') in 0.001970 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.218233 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks
+  artifactKey: Guid(366002e10ac7dae4882c7930ba3a7638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks using Guid(366002e10ac7dae4882c7930ba3a7638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f8a5d2d884780f448e771e9f6a17f0') in 0.000415 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.022720 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/cliff_arch_dry.prefab
+  artifactKey: Guid(8eee984853aacf043b98f53d5ca1ca6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/cliff_arch_dry.prefab using Guid(8eee984853aacf043b98f53d5ca1ca6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87551ee7929348f5cd947f87d4d8d1a8') in 0.002495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/tall_rockb_dry.prefab
+  artifactKey: Guid(f2ac50ac84f2d174a8622de41304eb1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/tall_rockb_dry.prefab using Guid(f2ac50ac84f2d174a8622de41304eb1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a6f0bd84248742af512668d261b48a') in 0.001283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/cliffb_dry.prefab
+  artifactKey: Guid(47a4c241e17ea48498b40c35a037c86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/cliffb_dry.prefab using Guid(47a4c241e17ea48498b40c35a037c86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8562cff5bbfa534f8cb34480855fd190') in 0.001265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/small_rocks_dry.prefab
+  artifactKey: Guid(41bdf5fc00707e2438275001b305c5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/small_rocks_dry.prefab using Guid(41bdf5fc00707e2438275001b305c5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a7e8212914ad50aa2bbc6d203c7819') in 0.001303 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/MountainB_dry.prefab
+  artifactKey: Guid(171d9855ffbf57e46a093a1d591f32b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/MountainB_dry.prefab using Guid(171d9855ffbf57e46a093a1d591f32b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d4a48544a81949cb95983616d019e5') in 0.001376 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/medium_rockb_dry.prefab
+  artifactKey: Guid(7bdca49c262cb0244a3c6af054d09564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/medium_rockb_dry.prefab using Guid(7bdca49c262cb0244a3c6af054d09564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f665f3badb4ccd85f87d185a0ae6b8f') in 0.001058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/flat_rock_dry.prefab
+  artifactKey: Guid(2d8b5a8b5a7ebf243a1ee081a8a1380b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/flat_rock_dry.prefab using Guid(2d8b5a8b5a7ebf243a1ee081a8a1380b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea177a3be032a7784d83977102cf043') in 0.001095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/tall_rock_dry.prefab
+  artifactKey: Guid(d56f039c402cf1a42b82904127fb83a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Prefabs/Dry/Rocks/tall_rock_dry.prefab using Guid(d56f039c402cf1a42b82904127fb83a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920f8b95d33983b7f1e70261a08bb887') in 0.001071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 3.575605 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain
+  artifactKey: Guid(2fddc95ee045fd247a41de39001da31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain using Guid(2fddc95ee045fd247a41de39001da31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5a02e81fd5b42425b19d33e6b82b8b') in 0.000488 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.985573 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Mesa_dry.FBX
+  artifactKey: Guid(beb1a3cf7f931b64fb7e606e9c3c3f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Mesa_dry.FBX using Guid(beb1a3cf7f931b64fb7e606e9c3c3f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d2a697628be354958eac5cac3b8855d') in 0.001289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Terrain_a_lush.FBX
+  artifactKey: Guid(8be7705bb3ae6484e813595ab822273a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Terrain_a_lush.FBX using Guid(8be7705bb3ae6484e813595ab822273a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c799e61f7309010eb77e44dae0ae69b1') in 0.001891 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000973 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Terrain_c_dry.FBX
+  artifactKey: Guid(003b4fda6eab01f4d9a0ef6d9c6c4579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Terrain_c_dry.FBX using Guid(003b4fda6eab01f4d9a0ef6d9c6c4579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '555f952140cf745ba79d547048aee0e8') in 0.001354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Terrain_a_ice.FBX
+  artifactKey: Guid(f78b27ceb41691e44b34507bae5bb6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Terrain_a_ice.FBX using Guid(f78b27ceb41691e44b34507bae5bb6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c86053e4889c7e19e3163a0dc99556') in 0.001207 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Terrain_d_ice.FBX
+  artifactKey: Guid(d57c39cf8e4bdcd479697c72d32c7a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Terrain_d_ice.FBX using Guid(d57c39cf8e4bdcd479697c72d32c7a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e436543183fb4a9b01499e0bb655b09e') in 0.001367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Mesa_lush.FBX
+  artifactKey: Guid(14cfa82c037b70f4bbfdd7c70bfb7328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Mesa_lush.FBX using Guid(14cfa82c037b70f4bbfdd7c70bfb7328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28896a2b3dce960720625f1840ad998') in 0.001004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Terrain_c_lush.FBX
+  artifactKey: Guid(dd76e7e9e0c4e644c8d6cc61f3a85108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Terrain_c_lush.FBX using Guid(dd76e7e9e0c4e644c8d6cc61f3a85108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d00062138dae4c100624321821cfe8') in 0.001406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Mesa_iceB.FBX
+  artifactKey: Guid(8389453d948d6ad48a8de7eb878b4a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Mesa_iceB.FBX using Guid(8389453d948d6ad48a8de7eb878b4a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81df506329942a697fc6fd8e10efd213') in 0.000797 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Terrain_b_dry.FBX
+  artifactKey: Guid(aaa2aee5643cc414a8e0ec4af30b6897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Terrain_b_dry.FBX using Guid(aaa2aee5643cc414a8e0ec4af30b6897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31857f893af457762922526cb04a6959') in 0.001292 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Terrain_d_gas.FBX
+  artifactKey: Guid(ad9dade488b9b90499ab941d9fe02e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Terrain_d_gas.FBX using Guid(ad9dade488b9b90499ab941d9fe02e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9f94fbd5bb6394d6793b370e7292577') in 0.001374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Terrain_b_ice.FBX
+  artifactKey: Guid(5d51cae337af1b944bffb1096cab3cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Terrain_b_ice.FBX using Guid(5d51cae337af1b944bffb1096cab3cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d00703a7fb603bd5dfd10d4ff9b377') in 0.001183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Building Blocks/Alien_planet/Terrain/Terrain_a_gas.FBX
+  artifactKey: Guid(4e3e1cb241eb7e045b8cbbe47a24d7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Alien_planet/Terrain/Terrain_a_gas.FBX using Guid(4e3e1cb241eb7e045b8cbbe47a24d7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8576d7771a3ed12554fe7c27c6233730') in 0.001327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16fa57000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/buyer/sailors/Unity/planetarium/immersive/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.599 seconds
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.950 seconds
+Domain Reload Profiling: 1549ms
+	BeginReloadAssembly (107ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (17ms)
+	LoadAllAssembliesAndSetupDomain (436ms)
+		LoadAssemblies (203ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (264ms)
+			TypeCache.Refresh (253ms)
+				TypeCache.ScanAssembly (243ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (951ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (323ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (63ms)
+			ProcessInitializeOnLoadAttributes (204ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 1.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4945 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 41 unused Assets / (61.1 KB). Loaded Objects now: 5587.
+Memory consumption went from 197.7 MB to 197.7 MB.
+Total: 3.068750 ms (FindLiveObjects: 0.201250 ms CreateObjectMapping: 0.074958 ms MarkObjects: 2.666292 ms  DeleteObjects: 0.125500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
