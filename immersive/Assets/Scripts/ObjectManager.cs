@@ -5,6 +5,6 @@ public class ObjectManager : MonoBehaviour {
 
     public void TogglePlanetVisibility() {
         isPlanetVisible = !isPlanetVisible;
-        gameObject.SetActive(isPlanetVisible);
+        gameObject.SetActive(isPlanetVisible); // Will need to update this to be able to re-show the planet
     }
 }
