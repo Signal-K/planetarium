@@ -59,7 +59,7 @@ public class Noise
     /// some of them pre-multiplied.
     const double F2 = 0.5*(Sqrt3 - 1.0);
 
-    const double G2 = (3.0 - Sqrt3)/6.0;
+    const double G2 = (3.0 - Sqrt3)/6.0; 
     const double G22 = G2*2.0 - 1;
 
     const double F3 = 1.0/3.0;

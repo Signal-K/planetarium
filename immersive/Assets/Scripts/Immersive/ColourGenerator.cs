@@ -9,7 +9,7 @@ public class ColourGenerator {
     INoiseFilter biomeNoiseFilter;
 
     public void UpdateSettings(ColourSettings settings) {
-        this.settings = settings;
+        this.settings = settings; 
         if (texture == null || texture.height != settings.biomeColourSettings.biomes.Length) {
             texture = new Texture2D(textureResolution, settings.biomeColourSettings.biomes.Length);
         }

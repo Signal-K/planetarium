@@ -5,7 +5,7 @@ using UnityEngine.Networking;
 
 public class Planet : MonoBehaviour {
     [Range(2, 256)]
-    public int resolution = 10;
+    public int resolution = 256;
     public bool autoUpdate = true;
     public enum FaceRenderMask { All, Top, Bottom, Left, Right, Front, Back };
     public FaceRenderMask faceRenderMask;

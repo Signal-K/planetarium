@@ -12,7 +12,7 @@ public class ColourSettings : ScriptableObject {
         public Biome[] biomes;
         public NoiseSettings noise;
         public float noiseOffset;
-        public float noiseStrength;
+        public float noiseStrength;// = 3;
         [Range(0,1)]
         public float blendAmount;
 
